@@ -1,0 +1,13 @@
+/home/maiara/Área de Trabalho/Backend C#/Polimorfismo Sobrecarga/bin/Debug/netcoreapp3.1/Polimorfismo Sobrecarga
+/home/maiara/Área de Trabalho/Backend C#/Polimorfismo Sobrecarga/bin/Debug/netcoreapp3.1/Polimorfismo Sobrecarga.deps.json
+/home/maiara/Área de Trabalho/Backend C#/Polimorfismo Sobrecarga/bin/Debug/netcoreapp3.1/Polimorfismo Sobrecarga.runtimeconfig.json
+/home/maiara/Área de Trabalho/Backend C#/Polimorfismo Sobrecarga/bin/Debug/netcoreapp3.1/Polimorfismo Sobrecarga.runtimeconfig.dev.json
+/home/maiara/Área de Trabalho/Backend C#/Polimorfismo Sobrecarga/bin/Debug/netcoreapp3.1/Polimorfismo Sobrecarga.dll
+/home/maiara/Área de Trabalho/Backend C#/Polimorfismo Sobrecarga/bin/Debug/netcoreapp3.1/Polimorfismo Sobrecarga.pdb
+/home/maiara/Área de Trabalho/Backend C#/Polimorfismo Sobrecarga/obj/Debug/netcoreapp3.1/Polimorfismo Sobrecarga.csprojAssemblyReference.cache
+/home/maiara/Área de Trabalho/Backend C#/Polimorfismo Sobrecarga/obj/Debug/netcoreapp3.1/Polimorfismo Sobrecarga.AssemblyInfoInputs.cache
+/home/maiara/Área de Trabalho/Backend C#/Polimorfismo Sobrecarga/obj/Debug/netcoreapp3.1/Polimorfismo Sobrecarga.AssemblyInfo.cs
+/home/maiara/Área de Trabalho/Backend C#/Polimorfismo Sobrecarga/obj/Debug/netcoreapp3.1/Polimorfismo Sobrecarga.csproj.CoreCompileInputs.cache
+/home/maiara/Área de Trabalho/Backend C#/Polimorfismo Sobrecarga/obj/Debug/netcoreapp3.1/Polimorfismo Sobrecarga.dll
+/home/maiara/Área de Trabalho/Backend C#/Polimorfismo Sobrecarga/obj/Debug/netcoreapp3.1/Polimorfismo Sobrecarga.pdb
+/home/maiara/Área de Trabalho/Backend C#/Polimorfismo Sobrecarga/obj/Debug/netcoreapp3.1/Polimorfismo Sobrecarga.genruntimeconfig.cache
